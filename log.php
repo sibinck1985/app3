@@ -1,1 +1,1 @@
-<?php echo 'Log file...';?>
+<?php echo 'Log file here...';?>

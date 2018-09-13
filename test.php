@@ -1,1 +1,3 @@
-<?php echo 'Hiiiiiiiiii...';?>
+<?php echo 'Hiiiiiiiiii...';
+
+echo 'Hello from server';?>

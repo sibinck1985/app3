@@ -5,5 +5,5 @@ echo 'HEllo......';
 
 echo 'Hii...Edited on 13th Sep 2018.'
 echo 'Hello';
-echo 'END File';
+echo 'END Index File';
 ?>
